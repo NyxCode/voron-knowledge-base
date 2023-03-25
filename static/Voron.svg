@@ -27,7 +27,7 @@
      inkscape:cx="188.7405"
      inkscape:cy="270.16598"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="g867"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="2560"
@@ -54,10 +54,11 @@
      style="opacity:1;mix-blend-mode:normal">
     <g
        id="g867"
-       transform="translate(-46.158828,-67.047416)">
+       transform="translate(-46.158828,-67.047416)"
+       style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">
       <path
          sodipodi:type="star"
-         style="fill:#ff2200;fill-opacity:1;stroke:none;stroke-width:1.97946;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.38874"
+         style="fill:#dc2626;fill-opacity:1;stroke:none;stroke-width:0.9897284;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.38874"
          id="path849"
          sodipodi:sides="6"
          sodipodi:cx="105.26637"
@@ -74,15 +75,15 @@
          inkscape:transform-center-y="-4.7274408e-06"
          transform="matrix(1.0095999,0,0,1.0111571,-1.577511,-2.2677923)" />
       <path
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
          d="M 87.597587,97.753828 63.810599,134.30293 H 80.715397 L 104.43557,97.887463 Z"
          id="path853" />
       <path
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
          d="M 72.296405,171.0525 120.38542,97.943079 h 16.77269 L 89.107885,170.84524 Z"
          id="path855" />
       <path
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
          d="m 104.98289,170.84524 23.8125,-36.00223 h 16.63095 l -23.67076,36.04947 z"
          id="path857" />
     </g>

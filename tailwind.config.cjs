@@ -4,5 +4,15 @@ module.exports = {
 	theme: {
 		extend: {}
 	},
-	plugins: [require('daisyui')]
+	plugins: [require('daisyui')],
+	daisyui: {
+		themes: [
+			{
+				business: {
+					...require('daisyui/src/colors/themes')['[data-theme=business]'],
+					accent: '#dc2626'
+				}
+			}
+		]
+	}
 };
